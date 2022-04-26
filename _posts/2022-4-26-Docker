@@ -1,0 +1,14 @@
+---
+layout: post
+title: "容器、Docker和虚拟机"
+date:   2022-4-15
+tags: [Linux] [Docker]
+archive: [操作系统]
+comments: true
+toc: true
+author: yixia
+---
+
+容器、Docker和虚拟机的区别、定义及Docker的安装使用。
+
+<!-- more -->
